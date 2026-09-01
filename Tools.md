@@ -4,6 +4,7 @@
 ---
 ### Power Platform Downloads
 🟢 [Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494) <br/>
+🟢 [Power BI Report Builder](https://www.microsoft.com/download/details.aspx?id=105942)<br/>
 🟢 [XRM Toolbox](https://www.xrmtoolbox.com/) <br/>
 🟢 [Power Platform Toolbox](https://www.powerplatformtoolbox.com/) <br/>
 🟢 [Power BI Report Builder](https://download.microsoft.com/download/a/2/e/a2ea07b5-5a65-41d7-9ac0-b46ac953ab63/PowerBIReportBuilder.msi) <br/>
