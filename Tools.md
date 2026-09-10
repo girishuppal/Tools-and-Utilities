@@ -65,15 +65,18 @@
 ### Accessibility Tools
 
 🟢 [Accessibility Insights for Web](https://microsoftedge.microsoft.com/addons/detail/accessibility-insights-fo/ghbhpcookfemncgoinjblecnilppimih) <br/>
+🟢 [Simulate Color Deficiency](https://www.vischeck.com/) <br/>
+🟢 [Accessible font color check](https://accessible-colors.com/) <br/>
 
 ---
 
 
 ### Learning Sites
 
----
-### Image Manipulations
+🟢 [Dev Tools Free](https://free-for.dev/) <br/>
 
 ---
+### Video Manipulations
 
+🟢 [Video Convertor](https://www.shutterencoder.com/) <br/>
 
