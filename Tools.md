@@ -13,6 +13,7 @@
 🟢 [Ribbon Workbench Smartbutton](https://github.com/scottdurow/RibbonWorkbench/releases)<br/>
 🟢 [Fetch XML Formatter](https://codepen.io/AshV/full/RoVRWO)<br/>
 🟢 [Ribbon Workbench](https://www.develop1.net/public/rwb/ribbonworkbench.aspx)<br/>
+🟢 [Tabular Editor](https://tabulareditor.com/downloads)<br/>
 
 ---
 ### Azure
