@@ -1,7 +1,6 @@
-# Important Links
-
+# Microsoft Service Status
 ---
-### Microsoft Service Status
+
 
 [GitHub Status](https://www.githubstatus.com/)
 
